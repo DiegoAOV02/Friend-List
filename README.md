@@ -1,2 +1,4 @@
 # Friend-List
-This is a personal project to start with Ruby-on-Rails Framework
+This is a simple CRUD program in order to start working with Ruby and Ruby-on-Rails!
+
+*I'm open to suggestion, fork it!*
